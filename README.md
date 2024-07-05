@@ -82,13 +82,6 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 ```
 
-### Running the Script
-
-Execute the script to process data and generate predictions:
-```bash
-python script_name.py
-```
-
 ## Functions
 
 ### Core Functions
